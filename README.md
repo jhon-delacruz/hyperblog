@@ -6,4 +6,5 @@ En este curso veremos de todo un poco.
 - Todos los comandos de Git.
 - El flujo de trabajo en Git hub.
 - Las buenas practicas entre otros.
+- Creado por el grupo de platzi
 
